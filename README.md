@@ -1,8 +1,8 @@
 # Contribute to MEV-Explore
 
-Hey! Thanks for your interest in contributing to MEV-Explore. T
+Hey! Thanks for your interest in contributing to MEV-Explore. MEV-Explore v0 exists thanks to the many community contributors who have participated to it, join us!
 
-For starters, we recommend you to join our [Discord](https://discord.gg/7hvTycdNcK) and the #MEV-Explore channel in there, and to check out MEV-Explore's [Metholodogy](https://explore.flashbots.net/methodology) page for an explanation of how we've arrived at this dashboard and our data collection process.
+For starters, we recommend you to join the [#MEV-Explore channel](link) of our Discord and to check out MEV-Explore's [Metholodogy](https://explore.flashbots.net/methodology) page for an explanation of how we've arrived at this dashboard and our data collection process.
 
 ## Relevant repos to MEV-Explore
 The repos in the Flashbots organization connected to MEV-Explore are the following:
@@ -24,12 +24,11 @@ Inspectors currently missing include:
 * Swerve arbitrage
 * Bancor arbitrage
 * Kyber Network arbitrage
-* DyDx liquidations
+* DyDx liquidations - existing work by @brockelmore [here](https://github.com/flashbots/mev-inspect-logs/blob/main/scripts/getDydxLiqs.js)
 * Mooniswap arbitrage
 * DODO arbitrage
-* ESD/DSD incentivized frontrunning calls
+* ESD/DSD incentivized clipper inspectors - existing work by @austin-williams [here](https://github.com/flashbots/mev-inspect-logs/issues/1)
 
-Review our existing code for any mistakes in there or in the tests we do. Our code for MEV-Inspect exists mostly in Rust.
 
 ### Help us improve the quality of our data
 
@@ -45,10 +44,10 @@ There are several kinds of misclassified transactions:
 
 For any misclassified transaction you find, please open an issue on here for us to look at it, prune it from our db and add a filter to our crawlers to ignore similar transactions in the future or correct the calculation error.
 
-## General feedback 
+### General feedback 
 
 Requirements:
-* don't be too harsh :(
+* be kind
 
 As a user of MEV-Explore, help us improve it by suggesting new visualizations and metrics that would be useful to you, your project or your research group. You can do that in the ['Discussions'](link) tab of this repository so that others can join in.
 
