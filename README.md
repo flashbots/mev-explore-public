@@ -8,7 +8,6 @@ For starters, we recommend you to join the [#MEV-Explore channel](link) of our D
 The repos in the Flashbots organization connected to MEV-Explore are the following:
 
 * [mev-inspect-rs](https://github.com/flashbots/mev-inspect-rs)
-* [sql](https://github.com/flashbots/sql)
 * [mev-inspect-logs](https://github.com/flashbots/mev-inspect-logs)
 * [mev-inspect-ts](https://github.com/flashbots/mev-inspect-ts)
 
