@@ -9,7 +9,6 @@ The repos in the Flashbots organization connected to MEV-Explore are the followi
 
 * [mev-inspect-rs](https://github.com/flashbots/mev-inspect-rs)
 * [mev-inspect-logs](https://github.com/flashbots/mev-inspect-logs)
-* [mev-inspect-ts](https://github.com/flashbots/mev-inspect-ts)
 
 ## Ways to contribute
 
