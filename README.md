@@ -54,7 +54,7 @@ As a user of MEV-Explore, help us improve it by suggesting new visualizations an
 
 * [MEV-Explore dashboard](https://explore.flashbots.net)
 * [MEV-Explore blogpost](link)
-* [MEV-Inspect codebase](https://github.com/flashbots/mev-inspect-rs)
+* [MEV-Inspect Rust codebase](https://github.com/flashbots/mev-inspect-rs)
 * [Flashbots PM repo](https://github.com/flashbots/pm)
 * [Flashbots Discord](https://discord.gg/7hvTycdNcK)
 
