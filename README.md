@@ -12,7 +12,7 @@ The repos in the Flashbots organization connected to MEV-Explore are the followi
 
 ## Ways to contribute
 
-### Help us improve our protocol coverage by writing inspectors
+### Help us expand our protocol coverage by writing inspectors
 
 Requirements: 
 * proficiency in Rust or Javascript
@@ -32,7 +32,7 @@ Inspectors currently missing include:
 
 Requirements:
 * no specific coding skill required
-* an understanding of value flow within a transaction
+* an understanding of value flow within an Ethereum transaction
 
 Our data collection approach is far from perfect and we need as much help we can get in spotting misclassified transactions. You can see some individual transactions we classify in the [Leaderboard](https://explore.flashbots.net/leaderboard) page of the dashboard.
 
