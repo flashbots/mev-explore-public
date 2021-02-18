@@ -15,7 +15,7 @@ The repos in the Flashbots organization connected to MEV-Explore are the followi
 ### Help us expand our protocol coverage by writing inspectors
 
 Requirements: 
-* proficiency in Rust or TypeScript
+* proficiency in Rust or JavaScript
 * understanding of smart contract logic
 
 Inspectors currently missing include:
