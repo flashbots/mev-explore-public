@@ -25,6 +25,7 @@ Inspectors currently missing include:
 * DyDx liquidations - existing work by @brockelmore [here](https://github.com/flashbots/mev-inspect-logs/blob/main/scripts/getDydxLiqs.js)
 * Mooniswap arbitrage
 * DODO arbitrage
+* Cream Finance liquidations
 * ESD/DSD incentivized clipper inspectors - existing work by @austin-williams [here](https://github.com/flashbots/mev-inspect-logs/issues/1)
 
 
