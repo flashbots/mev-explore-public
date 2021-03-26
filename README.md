@@ -3,8 +3,6 @@
 
 ![](https://rawcdn.githack.com/sambacha/mev-explore-public/b72dcb655f54950f81625f4ede6ca515d2a3a1ab/mev_explore_meme.png)
 
-> Contributions Welcome
-
 Hey! Thanks for your interest in contributing to **MEV-Explore**. 
 
 MEV-Explore v0 exists thanks to the many community contributors who have participated in it, join us!
