@@ -1,8 +1,13 @@
-# Contribute to MEV-Explore
 
-Hey! Thanks for your interest in contributing to MEV-Explore. MEV-Explore v0 exists thanks to the many community contributors who have participated in it, join us!
+# ⚡️🤖 MEV-Explore
 
-For starters, we recommend you join the [#MEV-Explore channel](link) of our Discord and to check out MEV-Explore's [Metholodogy](https://explore.flashbots.net/methodology) page for an explanation of how we arrived at this dashboard and our data collection process.
+![](https://rawcdn.githack.com/sambacha/mev-explore-public/b72dcb655f54950f81625f4ede6ca515d2a3a1ab/mev_explore_meme.png)
+
+Hey! Thanks for your interest in contributing to **MEV-Explore**. 
+
+MEV-Explore v0 exists thanks to the many community contributors who have participated in it, join us!
+
+For starters, we recommend you join the [#MEV-Explore channel](https://discord.gg/7hvTycdNcK) of our Discord and to check out MEV-Explore's [Data & Metrics](https://explore.flashbots.net/data-metrics) page for an explanation of how we arrived at this dashboard and our data collection process.
 
 ## Relevant repos to MEV-Explore
 The repos in the Flashbots organization connected to MEV-Explore are the following:
@@ -25,6 +30,7 @@ Inspectors currently missing include:
 * DyDx liquidations - existing work by @brockelmore [here](https://github.com/flashbots/mev-inspect-logs/blob/main/scripts/getDydxLiqs.js)
 * Mooniswap arbitrage
 * DODO arbitrage
+* Cream Finance liquidations
 * ESD/DSD incentivized clipper inspectors - existing work by @austin-williams [here](https://github.com/flashbots/mev-inspect-logs/issues/1)
 
 
@@ -53,10 +59,9 @@ As a user of MEV-Explore, help us improve it by suggesting new visualizations an
 ## Resources
 
 * [MEV-Explore dashboard](https://explore.flashbots.net)
-* [MEV-Explore blogpost](link)
+* [MEV-Explore blogpost](https://medium.com/flashbots/quantifying-mev-introducing-mev-explore-v0-5ccbee0f6d02)
 * [MEV-Inspect Rust codebase](https://github.com/flashbots/mev-inspect-rs)
 * [Flashbots PM repo](https://github.com/flashbots/pm)
 * [Flashbots Discord](https://discord.gg/7hvTycdNcK)
-
 
 ⚡️🤖
